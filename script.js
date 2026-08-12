@@ -79,98 +79,98 @@ const stars = [
   {
     type: "photo",
     photo: "assets/photos/photo1.jpg",
-    text: "Birinci fotoğraf mesajın."
+    text: "Ilk aile fotografimiz."
   },
 
   {
     type: "text",
-    text: "İkinci yıldız mesajın."
+    text: "AY OLUYORSUN SANDIMM."
   },
 
   {
     type: "photo",
     photo: "assets/photos/photo2.jpg",
-    text: "İkinci fotoğraf mesajın."
+    text:"Sana sarilinca tum gurultuler kesiliyor sevgilim. (gozlerinin guzelligi peki...)"
   },
 
   {
     type: "text",
-    text: "Dördüncü yıldız mesajın."
+    text: "TEBRIKLER! YIL BOYUNCA GECERLI SINIRSIZ SARILMA KAZANDINIZ! DILEDIGINIZ ZAMAN KULLANABILIRSINIZ."
   },
 
   {
     type: "photo",
     photo: "assets/photos/photo3.jpg",
-    text: "Üçüncü fotoğraf mesajın."
+    text: "Evet memur bey kalbimi calan bu kisi."
   },
 
   {
     type: "text",
-    text: "Altıncı yıldız mesajın."
+    text: "Seninle daha fazla vakit gecirmek ve ani biriktirmek istiyorum."
   },
 
   {
     type: "text",
-    text: "Yedinci yıldız mesajın."
+    text: "Hicbir yildiz, hicbir galaksi gozlerinin icindekiler kadar guzel olamaz sevgilim."
   },
 
   {
     type: "photo",
     photo: "assets/photos/photo4.jpg",
-    text: "Dördüncü fotoğraf mesajın."
+    text: "Seninle gecen 1 saat bile tum gunun yorgunlugunu siliyor."
   },
 
   {
     type: "text",
-    text: "Dokuzuncu yıldız mesajın."
+    text: "Gun gectikce birbirimize benziyoruz ve bunu seviyorum. Ama seni daha cok seviyorum."
   },
 
   {
     type: "text",
-    text: "Onuncu yıldız mesajın."
+    text: "En cok uyurkenki halini seviyorum. Cunku uyurken bile beni birakmayip simsiki tutuyorsun."
   },
 
   {
     type: "photo",
     photo: "assets/photos/photo5.jpg",
-    text: "Beşinci fotoğraf mesajın."
+    text: "Gelecekte bu gunlere baktigimizda vay be neler yasamisiz diyecegiz."
   },
 
   {
     type: "text",
-    text: "On ikinci yıldız mesajın."
+    text: "Seni daha da tanimak, her halini gormek ve hafizama kazimak istiyorum."
   },
 
   {
     type: "text",
-    text: "On üçüncü yıldız mesajın."
+    text: "Gulusun su hayatta duymayi sevdigim en guzel ses."
   },
 
   {
     type: "photo",
     photo: "assets/photos/photo6.jpg",
-    text: "Altıncı fotoğraf mesajın."
+    text: "Bazen sana bakarken ne diyeceğimi unutuyorum. Bunu bil istedim."
   },
 
   {
     type: "text",
-    text: "On beşinci yıldız mesajın."
+    text: "Seni tanidigimdan beri siradan gunler biraz daha az siradan."
   },
 
   {
     type: "text",
-    text: "On altıncı yıldız mesajın."
+    text: "Sana alismak istemiyorum. Her gordugumde ilk seferki gibi heyecanlanmak daha guzel."
   },
 
   {
     type: "photo",
     photo: "assets/photos/photo7.jpg",
-    text: "Yedinci fotoğraf mesajın."
+    text: "Bir gun bana hayatimin en guzel anini sorarlarsa tek bir gun soyleyemem. Cunku sen geldikten sonra mutlulugumun tarihi degil adi var."
   },
 
   {
     type: "text",
-    text: "The eighteenth star."
+    text: "Seni dusunmek guzel sey, umitli sey. Dunyanin en guzel sesinden en guzel sarkiyi dinlemek gibi bir sey."
   }
 
 ];
